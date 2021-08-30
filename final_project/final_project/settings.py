@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-oaay)8=+d2(s+57kt8z^1$uji-fd0at9n*3r0p^m_0528ks#_3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'git.heroku.com/pegfinalprojectbackend.git']
+ALLOWED_HOSTS = ['localhost', 'https://pegfinalprojectbackend.herokuapp.com/']
 
 
 # Application definition
