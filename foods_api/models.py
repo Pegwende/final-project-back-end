@@ -6,4 +6,5 @@ class Food(models.Model):
     description = models.CharField(max_length=500)
     image = models.CharField(max_length=500)
     price = models.IntegerField()
+    number = models.IntegerField()
     category = models.CharField(max_length=32)
